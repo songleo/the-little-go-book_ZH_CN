@@ -3,7 +3,7 @@
 
 [《The Little Go Book》](https://github.com/karlseguin/the-little-go-book)中文译本，中文正式名《Go简易教程》。
 
-# [目录](directory.md)
+# 目录
 
 - [第1章 基础知识](1.0.md)
     - [1.1 编译](1.1.md)
