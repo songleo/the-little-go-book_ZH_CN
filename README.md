@@ -5,6 +5,12 @@
 
 # 目录
 
+- [关于本书](about-this-book.md)
+
+- [引言](introduction.md)
+
+- [准备工作](getting-started.md)
+
 - [第1章 基础知识](eBook/1.0.md)
     - [1.1 编译](eBook/1.1.md)
     - [1.2 静态类型](eBook/1.2.md)
@@ -30,7 +36,7 @@
 
 # 翻译进度
 
-[1.6 导入包](eBook/1.6.md)
+[1.7 变量和声明](eBook/1.7.md)
 
 # 致谢
 
