@@ -5,11 +5,11 @@
 
 # 目录
 
-- [关于本书](about-this-book.md)
+- [关于本书](eBook/about-this-book.md)
 
-- [引言](introduction.md)
+- [引言](eBook/introduction.md)
 
-- [准备工作](getting-started.md)
+- [准备工作](eBook/getting-started.md)
 
 - [第1章 基础知识](eBook/1.0.md)
     - [1.1 编译](eBook/1.1.md)
