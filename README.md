@@ -50,7 +50,7 @@
 
 - 本书原作者：[Karl Seguin](http://openmymind.net/)
 - 参与翻译人员：
-        
+    - [Jell](https://github.com/Jell3328)
 
 # 支持本书
 
