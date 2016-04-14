@@ -56,7 +56,7 @@
 
 如果你喜欢本书 《Go简易教程》，联系lisong1205@gmail.com，可以参与到本书的翻译或纠正工作中来，欢迎PR。
 
-你也可以关注我的微信公众号：reborncodinglife。欢迎讨论交流！
+你也可以关注我的微信公众号：reborncodinglife，欢迎讨论交流！
 
 ![](/images/wechat.jpg)
 
