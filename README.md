@@ -60,11 +60,11 @@
     - [6.3 通道](eBook/6.3.md)
     - [6.4 继续之前](eBook/6.4.md)
 
-- 结论
+- [结论](conclusion.md)
 
 # 翻译进度
 
-[6.3 通道](eBook/6.3.md)
+[结论](conclusion.md)
 
 # 致谢
 
