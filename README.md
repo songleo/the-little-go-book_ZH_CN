@@ -20,7 +20,7 @@
     - [1.6 导入包](eBook/1.6.md)
     - [1.7 变量和声明](eBook/1.7.md)
     - [1.8 函数声明](eBook/1.8.md)
-    - [1.9 继续之前](eBook/1.9.md)  
+    - [1.9 继续之前](eBook/1.9.md)
       
 - [第2章：结构体](eBook/2.0.md)
     - [2.1 声明和初始化](eBook/2.1.md)
@@ -60,7 +60,7 @@
     - [6.3 通道](eBook/6.3.md)
     - [6.4 继续之前](eBook/6.4.md)
 
-- [结论](conclusion.md)
+- [结论](eBook/conclusion.md)
 
 # 翻译进度
 
